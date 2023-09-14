@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="random-name-form">
-      <h2>Mafia Player Order</h2>
+      <h2>Mafia Players Order</h2>
       <div className="input-container">
         {names.map((name, index) => (
           <input
